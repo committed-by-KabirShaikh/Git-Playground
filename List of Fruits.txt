@@ -1,5 +1,6 @@
 {
     "Apple" : 10,
     "Banana" : 10,
-    "Cranberry" : 100
+    "Cranberry" : 100,
+    "Strawberry" : 5
 }
