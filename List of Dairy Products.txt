@@ -1,3 +1,4 @@
 {
-    Buttermilk : 100
+    "Buttermilk" : 100,
+    "Paneer" : 10
 }
