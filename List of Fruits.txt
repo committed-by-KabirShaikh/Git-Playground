@@ -2,5 +2,6 @@
     "Apple" : 10,
     "Banana" : 10,
     "Cranberry" : 100,
+    "Peaches" : 50,
     "Strawberry" : 5
 }
